@@ -1,2 +1,2 @@
-for database settings use: 
-github.com /dlbunker/ps-first-spring-boot-app. 
+for database settings use: Dan Bunker`s
+https://github.com/dlbunker/ps-first-spring-boot-app 
